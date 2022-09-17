@@ -1,0 +1,7 @@
+input {
+    display: block;
+}
+
+.input-radio, .input-checkbox {
+    display: inline;
+}
